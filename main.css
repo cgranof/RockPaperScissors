@@ -1,0 +1,15 @@
+#game-image {
+	background-image: url("http://www.advisoranalyst.com/glablog/wp-content/uploads/2014/05/thumb_6917_rockpaperscissors.jpg");
+	background-repeat: no-repeat;
+	height: 500px;
+	max-width: 940px;
+	margin: auto;
+
+}
+
+.page-header {
+	text-align: center;
+	margin: auto;
+}
+
+
